@@ -7,8 +7,6 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -31,8 +29,6 @@
     <a href="https://github.com/princejonaa/Beginner-Projects/issues">Request Feature</a>
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -59,16 +55,12 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
 Hey! This is a few projects I made starting in November. I don't know where this is going to end up but I just like to code and I look forward to just expanding my learning.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 ### Language Used
 
@@ -80,8 +72,6 @@ Hey! This is a few projects I made starting in November. I don't know where this
 * [JavaScript](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- Projects -->
 ## Projects
@@ -98,8 +88,6 @@ Will be stated in the folder of each project made.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
@@ -107,20 +95,16 @@ This is a simple reference guide for all of my work as a student and maybe furth
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Project 1 
-- Project 2
-- Project 3
+* [x] Project 1
+* Project 2
+* Project 3
 
 See the [open issues](https://github.com/princejonaa/Beginner-Projects/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -138,16 +122,12 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
 ## Contact
@@ -158,16 +138,12 @@ Project Link: [https://github.com/princejonaa/Beginner-Projects](https://github.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
 * To be announced
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
